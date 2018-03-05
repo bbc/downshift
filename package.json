@@ -55,10 +55,7 @@
   ],
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
-  "peerDependencies": {
-    "prop-types": ">=15",
-    "react": ">=15"
-  },
+  "peerDependencies": {},
   "devDependencies": {
     "@storybook/react": "^3.3.14",
     "cross-env": "^5.1.3",
